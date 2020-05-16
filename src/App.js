@@ -44,7 +44,7 @@ const App = () => {
         <div className={'deniedContainer'}>
           <Container fixed>
             <span>
-              access denied, You need permission to access this site
+              איך לך הרשאה לגשת לתוכן זה.
               </span>
           </Container>
         </div>
